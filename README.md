@@ -1,12 +1,11 @@
-# burc_rehberi_new
+# BURC REHBERI
 
 A new Flutter project.
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
 
-![GitHub Logo](images/1.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/images/1.PNG)![GitHub Logo](/images/2.PNG)
 
+
+![GitHub Logo](/images/3.PNG)
