@@ -7,6 +7,6 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-![GitHub Logo](/images/1.png)
+![GitHub Logo](images/1.png)
 Format: ![Alt Text](url)
 
